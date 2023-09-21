@@ -1,0 +1,8 @@
+Yuuki/__pycache__
+Yuuki/utils/info.py
+Yuuki/utils/__pycache__
+Yuuki/extensions/__pycache__
+Yuuki/database/__pycache__
+Yuuki/database/messages.db
+Yuuki/database/users.db
+Yuuki/core/__pycache__
